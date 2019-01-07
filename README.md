@@ -8,4 +8,4 @@ More Information About Gomoku : [WIKI ](https://en.wikipedia.org/wiki/Gomoku)
 
 If you want Gomoku Online Version, Go to Online Folder.
 
-More Information about Project : [EMAIL](gnyontu39@gmail.com) / [HOMEPAGE](http://duration.digimoon.net) / [BLOG](http://sotaneum.tistory.com/)
+More Information about Project : [EMAIL](<gnyontu39@gmail.com>) / [HOMEPAGE](http://duration.digimoon.net) / [BLOG](http://sotaneum.tistory.com/)
